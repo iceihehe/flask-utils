@@ -1,2 +1,2 @@
-# utils
-常用的函数和装饰器
+# flask-utils
+Flask的常用函数和装饰器
